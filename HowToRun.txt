@@ -1,0 +1,1 @@
+Had to edit the load_sequence file to be able to handle color images.
